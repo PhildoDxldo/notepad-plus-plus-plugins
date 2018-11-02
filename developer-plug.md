@@ -4,6 +4,7 @@
 * NppExec
 * WebEdit
 * https://github.com/MarcSaenz/NotepadSharp
+* TextFX Characters
 
 # Database:
 * NppDB
