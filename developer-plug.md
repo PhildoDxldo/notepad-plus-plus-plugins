@@ -1,7 +1,8 @@
 * Hex-Editor Plugin
 * MIME Tools
 * NppAStyle
-* https://code.google.com/archive/p/code-express/downloads
+* NppExec
+* WebEdit
 
 # Database:
 * NppDB
@@ -12,3 +13,7 @@
 * HTML Viewer
 https://fossil.2of4.net/npp_preview/home
 * https://github.com/joaoasrosa/nppxmltreeview
+
+# Snippet or Autocomplete Template Code
+* https://code.google.com/archive/p/code-express/downloads
+* Emmet
