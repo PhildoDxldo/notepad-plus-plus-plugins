@@ -5,5 +5,5 @@
 * NavigateTo
 https://github.com/young-developer/nppNavigateTo
 * https://github.com/nex3z/NppQuickSearchPanel
-
+* LocationNav
 * anmXNpp becomes MathPad
