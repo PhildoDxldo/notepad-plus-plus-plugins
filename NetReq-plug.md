@@ -8,3 +8,5 @@
 * https://github.com/AnnaVel/RtfHelper
 * CsvQuery
 https://github.com/jokedst/CsvQuery
+* NppChomeDebugPlugin
+https://github.com/jdubbeldam/NppChomeDebugPlugin/
