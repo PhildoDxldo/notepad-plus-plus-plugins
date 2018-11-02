@@ -12,3 +12,5 @@ https://github.com/jokedst/CsvQuery
 https://github.com/jdubbeldam/NppChomeDebugPlugin/
 * ClipboardHelper
 https://sourceforge.net/projects/npp-plugins/files/ClipboardHelper/
+* NPPTOOLBUCKET
+http://phdesign.com.au/npptoolbucket/
