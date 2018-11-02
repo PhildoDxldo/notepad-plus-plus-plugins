@@ -8,3 +8,6 @@ https://github.com/young-developer/nppNavigateTo
 * LocationNav
 * anmXNpp becomes MathPad
 * Compare
+* Multi-Clipboard
+* CharM
+* TopMost
