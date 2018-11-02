@@ -10,3 +10,5 @@
 https://github.com/jokedst/CsvQuery
 * NppChomeDebugPlugin
 https://github.com/jdubbeldam/NppChomeDebugPlugin/
+* ClipboardHelper
+https://sourceforge.net/projects/npp-plugins/files/ClipboardHelper/
