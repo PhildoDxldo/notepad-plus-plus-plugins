@@ -1,5 +1,6 @@
 * BetterMultiSelection
-* https://github.com/dail8859/SurroundSelection
+* SurroundSelection
+https://github.com/dail8859/SurroundSelection
 * https://www.fesevur.com/selectquotedtext/
 * File Switcher
 * NavigateTo
@@ -11,3 +12,4 @@ https://github.com/young-developer/nppNavigateTo
 * Multi-Clipboard
 * CharM
 * TopMost
+* ClipboardHelper
