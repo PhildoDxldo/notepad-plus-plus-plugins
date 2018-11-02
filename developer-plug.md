@@ -3,6 +3,7 @@
 * NppAStyle
 * NppExec
 * WebEdit
+* https://github.com/MarcSaenz/NotepadSharp
 
 # Database:
 * NppDB
@@ -13,6 +14,8 @@
 * HTML Viewer
 https://fossil.2of4.net/npp_preview/home
 * https://github.com/joaoasrosa/nppxmltreeview
+* MarkdownViewerPlusPlus
+https://github.com/nea/MarkdownViewerPlusPlus
 
 # Snippet or Autocomplete Template Code
 * https://code.google.com/archive/p/code-express/downloads
