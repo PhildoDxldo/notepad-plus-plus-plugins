@@ -17,3 +17,6 @@ https://fossil.2of4.net/npp_preview/home
 # Snippet or Autocomplete Template Code
 * https://code.google.com/archive/p/code-express/downloads
 * Emmet
+
+# Debug
+* NppChomeDebugPlugin
