@@ -1,4 +1,4 @@
-Hex-Editor Plugin
-MIME Tools
-NppAStyle
-NppDB
+* Hex-Editor Plugin
+* MIME Tools
+* NppAStyle
+* NppDB
