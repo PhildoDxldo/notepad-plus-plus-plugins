@@ -1,1 +1,3 @@
-my-notepad-plus-plugins
+#Notepad++ addons
+
+notepad++ addons and supporting files
