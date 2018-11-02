@@ -11,3 +11,4 @@
 * https://github.com/kapilratnani/JSON-Viewer
 * HTML Viewer
 https://fossil.2of4.net/npp_preview/home
+* https://github.com/joaoasrosa/nppxmltreeview
