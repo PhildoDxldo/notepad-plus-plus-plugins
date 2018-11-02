@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete>
+		<Environment ignoreCase="no" />	
+		<KeyWord name="adalah" func="yes">
+			<Overload retVal="adalah" descr="adalah">
+				<Param name="adalah"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="agar" func="yes">
+			<Overload retVal="agar" descr="agar">
+				<Param name="agar"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="akan" func="yes">
+			<Overload retVal="akan" descr="akan">
+				<Param name="akan"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="andaikan" func="yes">
+			<Overload retVal="andaikan" descr="andaikan">
+				<Param name="andaikan"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="antara" func="yes">
+			<Overload retVal="antara" descr="antara">
+				<Param name="antara"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="apalagi" func="yes">
+			<Overload retVal="apalagi" descr="apalagi">
+				<Param name="apalagi"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="atas" func="yes">
+			<Overload retVal="atas" descr="atas">
+				<Param name="atas"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="atau" func="yes">
+			<Overload retVal="atau" descr="atau">
+				<Param name="atau"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bagi" func="yes">
+			<Overload retVal="bagi" descr="bagi">
+				<Param name="bagi"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bahkan" func="yes">
+			<Overload retVal="bahkan" descr="bahkan">
+				<Param name="bahkan"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bahwa" func="yes">
+			<Overload retVal="bahwa" descr="bahwa">
+				<Param name="bahwa"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="berkat" func="yes">
+			<Overload retVal="berkat" descr="berkat">
+				<Param name="berkat"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="biarpun" func="yes">
+			<Overload retVal="biarpun" descr="biarpun">
+				<Param name="biarpun"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bila" func="yes">
+			<Overload retVal="bila" descr="bila">
+				<Param name="bila"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="buat" func="yes">
+			<Overload retVal="buat" descr="buat">
+				<Param name="buat"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="dalam" func="yes">
+			<Overload retVal="dalam" descr="dalam">
+				<Param name="dalam"/>
+			</Overload>
+		<KeyWord name="dan" func="yes">
+			<Overload retVal="dan" descr="dan">
+				<Param name="dan"/>
+			</Overload>
+		</KeyWord>
+		<KeyWord name="dari">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="daripada">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="demi">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="dengan">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="di">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="guna">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="hampir">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="hanya">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="hingga">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="ialah">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="ibarat">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="jadi">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="jangankan">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="jika">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="jikalau">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="kalau">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="karena">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="ke">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="kecuali">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="kemudian">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="kepada">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="ketika">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="lagipula">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="laksana">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="lalu">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="malahan">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="melainkan">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="mengenai">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="namun">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="oleh">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="oleh">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="pada">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sampai">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sebab">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sebagai">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sebaliknya">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sebelum">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sedangkan">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sehingga">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sehingga">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sejak">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="selanjutnya">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="seperti">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="serta">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sesudah">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="sewaktu">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="tanpa">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="tatkala">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="tempat">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="tentang">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="terhadap">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="tetapi">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="untuk">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="untuk">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="yaitu">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="yakni">
+	<Overload retVal="">
+	</Overload>
+</KeyWord>
+		<KeyWord name="yang"/>+
+
+	</AutoComplete>
+</NotepadPlus>
